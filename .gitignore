@@ -1,0 +1,11 @@
+# Dev/analysis scripts (not part of the site)
+*.py
+api_dump.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
